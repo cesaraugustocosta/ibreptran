@@ -9,7 +9,7 @@
 body {
 	background: -webkit-gradient(linear, left bottom, left top, from(#20B2AA), to(#008B8B)) fixed;
 	background: url("../img/sp.jpg") no-repeat fixed;
-	background-size: 1900px 1100px;
+	background-size: 1900px 1200px;
 
 	/*opacity: 0.5;*/
 }
